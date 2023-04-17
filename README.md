@@ -9,8 +9,5 @@ Grupo de recursos y SQL server.
 ### P3
 Despliega un servidor Ubuntu 22-04.
 
-### P4
-Pruebas de conexión.
-
 ### P5
 Despliega servidor PostgreSQL.
