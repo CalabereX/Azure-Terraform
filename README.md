@@ -7,9 +7,8 @@ Conecta terraform con azure y crea un grupo de recursos.
 Grupo de recursos y service plan
 
 ### P3
-Despliega un servidor Ubuntu 22-04.
+Despliega un servidor Ubuntu 22-04 LTS.
 
 ### P5
 Despliega servidor PostgreSQL.
 
-Probando el Pull
