@@ -4,7 +4,7 @@
 Conecta terraform con azure y crea un grupo de recursos.
 
 ### P2
-Grupo de recursos y SQL server.
+Grupo de recursos y service plan
 
 ### P3
 Despliega un servidor Ubuntu 22-04.
